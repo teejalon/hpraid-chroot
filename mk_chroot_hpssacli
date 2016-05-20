@@ -2,7 +2,7 @@
 
 if [ $# -lt 1 ]; then
     echo "How to use:"
-    echo -e "\t$0 HPACUCLI.RPM"
+    echo -e "\t$0 HPSSACLI.RPM"
     echo -e "\tThis will unpack hpssacli rpm and make a chroot environment"
     echo
     exit 1
