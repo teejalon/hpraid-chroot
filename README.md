@@ -33,7 +33,7 @@ Upload hpraid-chroot-master/hpraid.tar.gz somewhere on your interwebz
 
 Go to http://downloads.linux.hpe.com/repo/spp/rhel/7/x86_64/current/
 
-Get HP Array Configuration Utility CLI for Linux, 64bit RPM
+Get HP Smart Storage Administrator CLI for Linux, 64bit RPM
 
 ### Run the script to generate the new hpraid.tar.gz
 
@@ -44,4 +44,5 @@ Upload this new hpraid.tar.gz to wherever you want to use it later in your kicks
 
 # Changelog
 12/14/12 hpraid.tar.gz is built with hpacucli-9.30-15.0.x86_64.rpm
+
 05/12/2016 hpacucli  -> hpssacli  centos 6 -> 7
